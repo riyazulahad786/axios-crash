@@ -209,6 +209,10 @@ function showOutput(res) {
 `;
 }
 
+
+
+
+
 // Event listeners
 document.getElementById('get').addEventListener('click', getTodos);
 document.getElementById('post').addEventListener('click', addTodo);
